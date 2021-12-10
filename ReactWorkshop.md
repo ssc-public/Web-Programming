@@ -37,6 +37,6 @@
 - [کورس مناسب برای یادگیری react (به صورت کاملا رایگان و غیرقانونی!)](https://download.ir/mastering-react/)
 - [مستندات یادگیری react](https://reactjs.org/tutorial/tutorial.html)
 - [مستندات یادگیری react (نسخه بتا)](https://beta.reactjs.org/learn)
-- [استایل‌های کدزنی react در (شرکت airbnb)](https://github.com/airbnb/javascript/tree/master/react)
+- [استایل‌های کدزنی react (شرکت airbnb)](https://github.com/airbnb/javascript/tree/master/react)
 - [توصیه‌هایی پیرامون کدنویسی خوب در react](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
 - [ری‌اکت‌نیتیو (که ربطی به reactjs ما ندارد!)](https://reactnative.dev/)
