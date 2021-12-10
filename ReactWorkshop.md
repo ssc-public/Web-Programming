@@ -4,7 +4,7 @@
 - این route کردن چه فرقی با nginx داره؟
 - این که به ازای هر تغییر توی استیت، کامپوننت دوباره رندر میشه، بد نیست؟ چه جوری میشه جلوشو گرفت؟
 
-## مفاهیم اصلی
+## مفاهیم اصلی مطرح‌شده
 - index.html (virtual DOM)
 - index.jsx  
 - routing
@@ -32,7 +32,7 @@
 - [نقشه‌ی راه ری‌اکت](https://roadmap.sh/react)
 - [استایل‌های کدزنی ری‌ در اکت (شرکت airbnb)](https://github.com/airbnb/javascript/tree/master/react)
 - [توصیه‌هایی پیرامون کدنویسی خوب در ری‌اکت](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
-- [کورس آموزشی مناسب برای یادگیری ری‌اکت (به صورت کاملا رایگان و غیرقانونی!)](https://download.ir/mastering-react/)
+- [کورس مناسب برای یادگیری ری‌اکت (به صورت کاملا رایگان و غیرقانونی!)](https://download.ir/mastering-react/)
 - [مستندات یادگیری ری‌اکت](https://create-react-app.dev/docs/folder-structure)
 - [مستندات یادگیری ری‌اکت (نسخه بتا)](https://beta.reactjs.org/learn)
 - [ری‌اکت‌نیتیو (که ربطی به ری‌اکت‌جی‌اسِِ ما ندارد!)](https://reactnative.dev/)
