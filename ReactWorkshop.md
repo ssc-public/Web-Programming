@@ -23,6 +23,7 @@
 
 می‌توانید پروژه‌ای را که در این کارگاه زده شد، از [اینجا](https://github.com/mbehnasr/react-workshop-web-1400-sharif) مشاهده کنید.
 
+
 ## فیلم ضبط‌شده‌ی کارگاه
 می‌توانید فیلم ضبط‌شده‌ی کارگاه را از [اینجا](https://aparat.com/v/CWXkp) مشاهده کنید.
 
@@ -35,4 +36,4 @@
 - [مستندات یادگیری ری‌اکت (نسخه بتا)](https://beta.reactjs.org/learn)
 - [استایل‌های کدزنی ری‌ در اکت (شرکت airbnb)](https://github.com/airbnb/javascript/tree/master/react)
 - [توصیه‌هایی پیرامون کدنویسی خوب در ری‌اکت](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
-- [ری‌اکت‌نیتیو (که ربطی به ری‌اکت‌جی‌اسِِ ما ندارد!)](https://reactnative.dev/)
+- [ری‌اکت‌نیتیو (که ربطی به ری‌اکت‌جی‌اسِ ما ندارد!)](https://reactnative.dev/)
