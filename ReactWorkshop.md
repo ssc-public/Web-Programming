@@ -31,11 +31,12 @@
 
 
 ## لینک‌های مفید
-- [نقشه‌ی راه فرانت‌اند](https://roadmap.sh/frontend)
-- [نقشه‌ی راه ری‌اکت](https://roadmap.sh/react)
-- [کورس مناسب برای یادگیری ری‌اکت (به صورت کاملا رایگان و غیرقانونی!)](https://download.ir/mastering-react/)
-- [مستندات یادگیری ری‌اکت](https://create-react-app.dev/docs/folder-structure)
-- [مستندات یادگیری ری‌اکت (نسخه بتا)](https://beta.reactjs.org/learn)
-- [استایل‌های کدزنی ری‌ در اکت (شرکت airbnb)](https://github.com/airbnb/javascript/tree/master/react)
-- [توصیه‌هایی پیرامون کدنویسی خوب در ری‌اکت](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
-- [ری‌اکت‌نیتیو (که ربطی به ری‌اکت‌جی‌اسِ ما ندارد!)](https://reactnative.dev/)
+- [افزونه‌ی vscode برای react](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [نقشه‌ی راه frontend](https://roadmap.sh/frontend)
+- [نقشه‌ی راه react](https://roadmap.sh/react)
+- [کورس مناسب برای یادگیری react (به صورت کاملا رایگان و غیرقانونی!)](https://download.ir/mastering-react/)
+- [مستندات یادگیری react](https://create-react-app.dev/docs/folder-structure)
+- [مستندات یادگیری react (نسخه بتا)](https://beta.reactjs.org/learn)
+- [استایل‌های کدزنی react در (شرکت airbnb)](https://github.com/airbnb/javascript/tree/master/react)
+- [توصیه‌هایی پیرامون کدنویسی خوب در react](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
+- [ری‌اکت‌نیتیو (که ربطی به reactjs ما ندارد!)](https://reactnative.dev/)
