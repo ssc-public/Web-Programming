@@ -1,4 +1,4 @@
 # Web Handout
-- [حل issue میانترم](https://github.com/shrif-web/handout/blob/main/UIIssues.md)
-- حل issue پایان‌ترم
+- [حل issue](https://github.com/shrif-web/handout/blob/main/Issues.md)
+- [تحقیق](https://github.com/shrif-web/handout/blob/main/Research.md)
 - [نقشه‌ی راه](https://roadmap.sh/)
