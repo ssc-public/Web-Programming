@@ -70,3 +70,6 @@
 44. https://github.com/jamesallardice/Placeholders.js
 45. https://github.com/fullcalendar/fullcalendar
 46. https://github.com/dataarts/dat.gui
+
+## لیست issue های پایانترم
+TODO
