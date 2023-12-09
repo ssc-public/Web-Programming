@@ -1,6 +1,10 @@
 # Web Handout
-- [حل issue](https://github.com/shrif-web/handout/blob/main/Issue.md)
-- [تحقیق](https://github.com/shrif-web/handout/blob/main/Research.md)
+- [پروژه فاز صفر - پروپوزال](https://github.com/WebProgramming14021/Web-Handouts/blob/main/Project-Proposal/Project-Proposal.md)
+- [پروژه فاز اول - بک‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/Project-Phase1/Project-Phase1.md)
+- [پروژه فاز دوم - فرانت‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/Project-Phase2/Project-Phase2.md)
+- [تمرین اول - بک‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW1-Backend/HW1-Backend.md)
+- [تمرین دوم - فرانت‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW2-Frontend/HW2-Frontend.md)
+- [تمرین سوم - اوپن‌سورس](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW2-Frontend/HW2-Frontend.md)
 - [نقشه‌ی راه برنامه‌سازی وب](https://roadmap.sh/)
 - [بسته آموزشی گیت‌هاب برای دانش‌جویان](https://education.github.com/pack)
 - [فیلم کلاس‌های ترم پاییز ۱۳۹۹-۱۴۰۰](https://telegra.ph/Web-App-Development-02-14)
