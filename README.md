@@ -6,7 +6,7 @@
 - [تمرین اول - بک‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW1-Backend/HW1-Backend.md)
 - [تمرین دوم - فرانت‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW2-Frontend/HW2-Frontend.md)
 - [تمرین سوم - زیرساخت](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW3-Infrastructure/HW3-Infrastructure.md)
-- [تمرین سوم - اوپن‌سورس](https://github.com/WebProgramming14021/Web-Handouts/blob/main/HW2-Frontend/HW2-Frontend.md)
+- [تمرین چهارم - اوپن‌سورس](https://github.com/WebProgramming14021/HW-OpenSource/blob/main/OpenSource.md)
 - [نقشه‌ی راه برنامه‌سازی وب](https://roadmap.sh/)
 - [بسته آموزشی گیت‌هاب برای دانش‌جویان](https://education.github.com/pack)
 - [فیلم کلاس‌های ترم پاییز ۱۳۹۹-۱۴۰۰](https://telegra.ph/Web-App-Development-02-14)
