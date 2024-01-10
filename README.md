@@ -1,4 +1,5 @@
 # Web Handout
+- [اسلایدها](https://github.com/WebProgramming14021/Slides)
 - [پروژه فاز صفر - پروپوزال](https://github.com/WebProgramming14021/Web-Handouts/blob/main/Project-Proposal/Project-Proposal.md)
 - [پروژه فاز اول - بک‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/Project-Phase1/Project-Phase1.md)
 - [پروژه فاز دوم - فرانت‌اند](https://github.com/WebProgramming14021/Web-Handouts/blob/main/Project-Phase2/Project-Phase2.md)
