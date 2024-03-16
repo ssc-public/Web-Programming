@@ -1,0 +1,15 @@
+# Web Handout
+
+- [اسلایدها](https://github.com/WebProgramming14021/Slides)
+- [پروژه فاز صفر - پروپوزال](https://github.com/WebProgramming14021/Project-Proposal/blob/main/README.md)
+- [پروژه فاز اول - بک‌اند](https://github.com/WebProgramming14021/Project-Phase1/blob/main/README.md)
+- [پروژه فاز دوم - فرانت‌اند](https://github.com/WebProgramming14021/Project-Phase2/blob/main/README.md)
+- [پروژه فاز سوم - زیرساخت](https://github.com/WebProgramming14021/Project-Phase3/blob/main/README.md)
+- [تمرین اول - بک‌اند](https://github.com/WebProgramming14021/HW1-Backend/blob/main/README.md)
+- [تمرین دوم - فرانت‌اند](https://github.com/WebProgramming14021/HW2-Frontend/blob/main/README.md)
+- [تمرین سوم - زیرساخت](https://github.com/WebProgramming14021/HW3-Infrastructure/blob/main/README.md)
+- [تمرین چهارم - اوپن‌سورس](https://github.com/WebProgramming14021/HW-OpenSource/blob/main/README.md)
+- [تحقیق](https://github.com/WebProgramming14021/Research/blob/main/README.md)
+- [نقشه‌ی راه برنامه‌سازی وب](https://roadmap.sh/)
+- [بسته آموزشی گیت‌هاب برای دانش‌جویان](https://education.github.com/pack)
+- [فیلم کلاس‌های ترم پاییز ۱۳۹۹-۱۴۰۰](https://telegra.ph/Web-App-Development-02-14)
